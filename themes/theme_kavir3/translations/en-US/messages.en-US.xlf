@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posbestsellers\posbestsellers.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="6831915d94c2407bba96774a64b92dd5">
+        <source>bestsellers</source>
+        <target>bestsellers</target>
+        <note>Context:
+File: D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posbestsellers\posbestsellers.tpl:4</note>
+      </trans-unit>
+      <trans-unit id="f7be84d6809317a6eb0ff3823a936800">
+        <source>No best sellers at this time</source>
+        <target>No best sellers at this time</target>
+        <note>Context:
+File: D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posbestsellers\posbestsellers.tpl:21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posfeaturedproducts\views\templates\hook\posfeaturedproducts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="ca7d973c26c57b69e0857e7a0332d545">
+        <source>Featured products</source>
+        <target>Featured products</target>
+        <note>Context:
+File: D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posfeaturedproducts\views\templates\hook\posfeaturedproducts.tpl:18</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posnewproducts\posnewproducts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="1529636c2dd134b028a08f7b131115b5">
+        <source>New Products</source>
+        <target>New Products</target>
+        <note>Context:
+File: D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\posnewproducts\posnewproducts.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayleftposts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="a5c22ff3efbced22c34bd7b7dd482a6d">
+        <source><![CDATA[Read More >>]]></source>
+        <target><![CDATA[Read More >>]]></target>
+        <note>Context:
+File: D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayleftposts.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayposts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="187b60ac731adde874b77f25f22f5df3">
+        <source>No Blog Post Found</source>
+        <target>No Blog Post Found</target>
+        <note>Context:
+File: D:\xampp\htdocs\pos_kavir\themes\theme_kavir3\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayposts.tpl:85</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

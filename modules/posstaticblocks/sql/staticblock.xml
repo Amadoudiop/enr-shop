@@ -1,0 +1,151 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>home_banner</identify>
+		<hook_position>displayBlockPosition1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>static_about_us</identify>
+		<hook_position>displayBlockPosition2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>customer_block</identify>
+		<hook_position>displayBlockPosition3</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+<!-- block lang configuration -->
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Home Banner</title>
+		<description>
+			 <![CDATA[
+			<div class="home-banner">
+			<div class="row">
+			<div class="col-xs-12 col-sm-12 col-lg-4">
+			<div class="banner-box"><img src="/pos_kavir/img/cms/1_3.jpg" alt="" class="img-responsive" />
+			<div class="banner-content">
+			<div class="info">
+			<h3 class="txt1">ORGANIC COCONUT OIL</h3>
+			<h4 class="txt2">GREEN COLLECTION</h4>
+			<a href="#">buy Now</a></div>
+			</div>
+			</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-lg-4">
+			<div class="banner-box"><img src="/pos_kavir/img/cms/2_3.jpg" alt="" class="img-responsive" />
+			<div class="banner-content">
+			<div class="info">
+			<h3 class="txt1">buy 2 items</h3>
+			<h4 class="txt2">get one for free</h4>
+			<a href="#">buy Now</a></div>
+			</div>
+			</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-lg-4">
+			<div class="banner-box"><img src="/pos_kavir/img/cms/3_3.jpg" alt="" class="img-responsive" />
+			<div class="banner-content">
+			<div class="info">
+			<h3 class="txt1">Cream and</h3>
+			<h4 class="txt2">slices of avocado</h4>
+			<a href="#">buy Now</a></div>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static About Us</title>
+		<description>
+			 <![CDATA[
+			<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+			<div class="about-us">
+			<div class="title_txt">About Us</div>
+			<div class="content-static">
+			<h2>A Few Words About Us</h2>
+			<h3>A better way to shop online for furniture, home décor and so much more !</h3>
+			<p>Kavir is more than just an online furniture store. We hand pick and curate the best in quality and style for you and your home. Why spend days driving from store to store trying to find that perfect look or unique piece. Find everything you are looking for and more from the comfort of your own home.</p>
+			<a href="#">Learn More</a></div>
+			</div>
+			</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Customer Block</title>
+		<description>
+			 <![CDATA[
+			<div class="cms_custom">
+			<div class="row">
+			<div class=" col col-xs-12 col-lg-4">
+			<div class="icon_cms support_icon"></div>
+			<div class="cms_info">
+			<h2>CUSTOMER SUPPORT</h2>
+			<p class="txt1">You will not Be Alone</p>
+			<p class="txt2">We really care about you and your website as much as you do. Purchasing Kavir or any other theme from us you get 100% free support.</p>
+			</div>
+			</div>
+			<div class="col col-xs-12 col-lg-4">
+			<div class="icon_cms fully_icon"></div>
+			<div class="cms_info">
+			<h2>FULLY CUSTOMIZABLE</h2>
+			<p class="txt1">Tons Of Options</p>
+			<p class="txt2">With Kavir you can customize the layout, colors and styles within only a few minutes. Start creating an amazing website right now!</p>
+			</div>
+			</div>
+			<div class="col col-xs-12 col-lg-4">
+			<div class="icon_cms admin_icon"></div>
+			<div class="cms_info">
+			<h2>POWERFUL ADMIN</h2>
+			<p class="txt1">Made To Help You</p>
+			<p class="txt2">Kavir has very powerful admin features to help customer to build their own shop in minutes without any special skills in web development.</p>
+			</div>
+			</div>
+			</div>
+			</div>
+			 ]]>
+		</description>
+	</block_lang>
+
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+
+</pos_static_blocks>

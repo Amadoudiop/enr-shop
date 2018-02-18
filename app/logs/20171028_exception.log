@@ -1,0 +1,11 @@
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:27:21: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:27:44: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:27:45: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:27:46: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:27:47: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:28:01: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:28:31: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:28:31: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:28:32: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:28:32: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2017/10/28 - 22:28:37: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'bn_app'@'192.168.16.3' (using password: YES) at line 102 in file classes/db/DbPDO.php

@@ -1,0 +1,134 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>static_info</identify>
+		<hook_position>displayBlockFooter1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>about_us</identify>
+		<hook_position>displayFooterAfter</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>payment_block</identify>
+		<hook_position>displayFooterBefore</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+<!-- block language configuration -->	
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Info</title>
+		<description>
+			 <![CDATA[
+			<div class="static-info">
+			<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-3">
+			<div class="info info1">
+			<div class="icon-static icon-shipping"></div>
+			<div class="static_info">
+			<h4>Free Shipping & Delivery</h4>
+			<p>Free on all products</p>
+			</div>
+			</div>
+			</div>
+			<div class="col col-xs-12 col-sm-12 col-md-3">
+			<div class="info info2">
+			<div class="icon-static icon-support"></div>
+			<div class="static_info">
+			<h4>+0123 456 789 : +0123 456 789</h4>
+			<p>Free support line!</p>
+			</div>
+			</div>
+			</div>
+			<div class="col col-xs-12 col-sm-12 col-md-3">
+			<div class="info info3">
+			<div class="icon-static icon-email"></div>
+			<div class="static_info">
+			<h4>Support@plazathemes.com</h4>
+			<p>Orders Support!</p>
+			</div>
+			</div>
+			</div>
+			<div class="col col-xs-12 col-sm-12 col-md-3">
+			<div class="info info4">
+			<div class="icon-static icon-time"></div>
+			<div class="static_info">
+			<h4>mon - fri / 8:00 - 18:00</h4>
+			<p>Working Days/Hours!</p>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>About Us </title>
+		<description>
+			 <![CDATA[
+			<div class="about_us ">
+			<div class="logo_footer"><a href="#"><img src="/pos_kavir/img/cms/logo_footer.png" alt="" /> </a></div>
+			<div class=" footer-info">
+			<div class="desc_footer">We are a team of designers and developers that create high quality Magento, Prestashop, Opencart.</div>
+			<div class="address_footer">
+			<h2>Contact info:</h2>
+			<p>169-C, Technohub, Dubai Silicon Oasis.</p>
+			</div>
+			</div>
+			</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Payment Block</title>
+		<description>
+			 <![CDATA[
+			<div class="col-lg-6 col-md-6 col-xs-12">
+			<div class="payment"><a href="#"><img src="/pos_kavir/img/cms/payment.png" alt="" /></a></div>
+			<address>Copyright <i class="icon-copyright"></i> <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</address></div>
+			 ]]>
+		</description>
+	</block_language>
+
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>
